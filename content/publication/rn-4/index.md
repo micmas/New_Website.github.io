@@ -1,0 +1,47 @@
+---
+title: 'Increased links between language and motor areas: A proof-of-concept study
+  on resting-state functional connectivity following Personalized Observation, Execution
+  and Mental imagery therapy in chronic aphasia'
+authors:
+- E. Durand
+- M. Masson-Trottier
+- A. Sontheimer
+- A. I. Ansaldo
+date: '2021-01-01'
+publishDate: '2024-03-19T23:16:27.641646Z'
+publication_types:
+- article-journal
+publication: '*Brain Cogn*'
+doi: 10.1016/j.bandc.2020.105659
+abstract: A tight coupling of language and motor processes has been established, which
+  is consistent with embodied cognition theory. However, very few therapies have been
+  designed to exploit the synergy between motor and language processes to help rehabilitate
+  people with aphasia (PWA). Moreover, the underlying mechanisms supporting the efficacy
+  of such approaches remain unknown. Previous work in our laboratory has demonstrated
+  that personalized observation, execution, and mental imagery therapy (POEM)-a new
+  therapy using three sensorimotor strategies to trigger action verb naming-leads
+  to significant improvements in verb retrieval in PWA. Moreover, these improvements
+  were supported by significant activations in language and sensorimotor processing
+  areas, which further reinforce the role of both processes in language recovery (Durand
+  et al., 2018). The present study investigates resting state functional connectivity
+  (rsFC) changes following POEM in a pre-/post-POEM therapy design. A whole brain
+  network functional connectivity approach was used to assess and describe changes
+  in rsFC in a group of four PWA, who were matched and compared with four healthy
+  controls (HC). Results showed increased rsFC in PWA within and between visuo-motor
+  and language areas (right cuneal cortex-left supracalcarin (SCC) cortex/right precentral
+  gyrus (PreCG)-left lingual gyrus (LG)) and between areas involved in action processing
+  (right anterior parahippocampal gyrus (aPaHC)-left superior parietal lobule (SPL).
+  In comparison to HC, the PWA group showed increased rsFC between the right inferior
+  frontal gyrus (IFG) and left thalamus, which are areas involved in lexico-semantic
+  processing. This proof-of-concept study suggests that the sensorimotor and language
+  strategies used in POEM may induce modifications in large-scale networks, probably
+  derived from the integration of visual and sensorimotor systems to sustain action
+  naming, which is consistent with the embodied cognition theory.
+tags:
+- '*Aphasia Brain/diagnostic imaging Brain Mapping Humans Language Magnetic Resonance
+  Imaging *Motor Cortex Action Aphasia Embodied cognition theory Resting-state fMRI
+  Verb'
+links:
+- name: URL
+  url: https://www.ncbi.nlm.nih.gov/pubmed/33485051
+---
