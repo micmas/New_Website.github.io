@@ -91,7 +91,7 @@ skills:
         description: I have developped the skill of coding simple apps for therapy and data visualization to facilitate therapy administration and tailloring.
         percent: 75
         icon: devicon/rstudio
-      - name: Data Analysis - GLMMs
+      - name: Data Analysis and GLMMs
         description: ''
         percent: 85
         icon: devicon/pytorch
