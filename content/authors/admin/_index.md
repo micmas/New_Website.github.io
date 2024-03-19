@@ -51,7 +51,7 @@ education:
     institution: Université de Montréal
     date_start: 2011-09-01
     date_end: 2015-05-31
-    summary: |
+    summary: |1-
       GPA: 4.0/4.3
       Travail dirigé de recherche portant sur la récupération des troubles de la communication suite à un traumatisme cranien en phase aiguë, plus spécifiquement l'impact d’une thérapie pragmatique-discursive intensive. Supervisée par [Professeure Karine Marcotte](https://eoa.umontreal.ca/departement/professeurs-chercheurs/karine-marcotte/). Les résultats de ma thèse on été présentés à l'occasion d'une (1) conférence nationales et a donné lieu à une (1) publications dans des revues scientifiques révisées par des paires.
   work:
@@ -70,7 +70,7 @@ education:
     company_logo: ''
     date_start: 2016-01-01
     date_end: ''
-    summary: |
+    summary: |3-
       En tant qu’orthophoniste qui adhère à l'approche de participation à la vie; mon objectif est de fournir des interventions d'une manière qui mène à des résultats fonctionnels et réduit les situations de handicap que causent les difficultés de communication.
       Mon approche vise à vous aider à reprendre ou à améliorer la réalisation de vos activités de communication, quelles qu’elles soient. Que vous souhaitiez tenir une conversation, écouter un reportage, lire un article, écrire un courriel, parler plus fort… le plan d’intervention que nous construirons part de vos projets, de vos objectifs!
       Je considère la communication dans son contexte social et fixe les interventions à partir des cadres de théorie de neuroscience et de psychologie de l’apprentissage. Je travaille en collaboration avec la personne vivant avec la difficulté de communication et son entourage lorsque c’est possible et souhaitable.
