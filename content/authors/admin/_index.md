@@ -125,25 +125,22 @@ languages:
 awards:
   - title: Bourses d’implication étudiante
     url: https://www.faecum.qc.ca/impliquez-vous/bourses-d-implication#bourse1
-    date: '2023-04'
+    date: 2023-04-01
     awarder: Fédération des associations étudiantes du campus de l’Université de Montréal (FAÉCUM)
     icon: ''
-    summary: |
-      ''
+    summary: ''
   - title: Meilleure présentation
     url: https://iugm.ca/fr/actualite/concours-ma-recherche-en-180-secondes-2022
-    date: '2022-01'
+    date: 2022-01-01
     awarder: Ma recherche en 180 secondes 2022 du CIUSSS CSSMTL
     icon: ''
-    summary: |
-      ''
+    summary: ''
   - title: 'Object-Oriented Programming in R'
     url: ''
-    date: '2022-05'
+    date: 2022-05-01
     awarder: École d'orthophonie et d'audiologie de l'Université de Montréal
     icon: ''
-    summary: |
-      ''
+    summary: ''
 ---
 
 Je suis présentement chercheuse postdoctorale à Johns Hopkins.
