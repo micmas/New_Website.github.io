@@ -53,7 +53,6 @@ education:
     date_end: 2015-05-31
     summary: |
       GPA: 4.0/4.3
-
       Travail dirigé de recherche portant sur la récupération des troubles de la communication suite à un traumatisme cranien en phase aiguë, plus spécifiquement l'impact d’une thérapie pragmatique-discursive intensive. Supervisée par [Professeure Karine Marcotte](https://eoa.umontreal.ca/departement/professeurs-chercheurs/karine-marcotte/). Les résultats de ma thèse on été présentés à l'occasion d'une (1) conférence nationales et a donné lieu à une (1) publications dans des revues scientifiques révisées par des paires.
   work:
   - position: Chercheuse Postdoctorale
